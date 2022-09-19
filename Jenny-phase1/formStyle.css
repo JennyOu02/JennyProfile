@@ -1,0 +1,11 @@
+#post-title, #post-content{
+    margin-bottom: 30px;
+}
+
+.warning {
+    border: 2px solid #f39389;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: #fbd8d4;
+    color: #3b3c40;
+  }
