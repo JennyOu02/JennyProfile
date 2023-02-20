@@ -1,0 +1,92 @@
+*, html, head, body, header, table, nav, div, form, aside, article, ul, footer, img{
+    background-color: white;
+    color: black;
+}
+
+#myName{
+    font-size: xx-large;
+    padding-left: 0;
+}
+
+.navBars{
+    text-align: none;
+    padding-top: 0;
+    padding-right: 0;
+}
+
+.navBars ul li{
+    list-style: none;
+    display: none;
+    position: none;
+    padding: 0;
+}
+
+td{
+    padding: 0;
+}
+
+h1,h2{
+    width: 12em;
+}
+
+#about_p{
+    line-height: auto;
+    width: 50em;
+}
+
+
+.education table{
+    width: 400px;
+}
+
+.experience, .education, .skills{
+    position: none;
+    
+}
+
+.portfolio{
+    position: none;
+}
+
+.blog{
+    position: none;
+}
+
+.iconTable{
+    position: none;
+}
+
+#icon{
+    width: 60px;
+    height: 60px;
+    
+}
+
+header{
+    min-height: 0;
+    width: 0;
+    background-image:none;
+    background-size: none;
+    background-repeat: none;
+}
+
+#profilePic{
+    width: 400px;
+    height: 400px;
+    position: none;
+}
+
+.scrollDown{
+    position:none;
+    width: 60em;
+}
+
+
+footer{
+    position: none;
+    
+}
+
+#Contact{
+    color: black;    
+}
